@@ -9,17 +9,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Flurry-iOS-SDK.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Mixpanel.xcscheme</key>
+		<key>PPSSignatureView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -44,12 +39,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>TTTAttributedLabel.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>UIImage+BlurredFrame.xcscheme</key>
+		<key>ZXingObjC.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -57,47 +47,37 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>05AE4BC2C3515D10DAD40F6AC2B26B54</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>410B25DF16EA5C5B3E2698F74F9625FB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8257528ECADBEF55AAAFF09BD814967D</key>
+		<key>9377342379EE4EA857FC221F5C738B38</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A1D1D61CB3A2484B18234ACC5ACEDD73</key>
+		<key>A40271065767E870B701020B6C6D2596</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B27C18131A04D2F367DC3F923114C89D</key>
+		<key>A7F8E6673BDF36EFBC856CD96AEBFD31</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B4F6DFDD14C00B94195E0AB07157AC72</key>
+		<key>D9A3E74CE40A584018C499E901E0A703</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C5D380A033889043A3CCF6EC24A1DC2A</key>
+		<key>DF927A8E4D4946B7CD7401AC863A4226</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D079C0B8D193CBDF60F39822F384E43F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D8348D2E25000B61FF52AD3B773D880A</key>
+		<key>F7C2D2521F9077704A8BBF4587AACC5E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
